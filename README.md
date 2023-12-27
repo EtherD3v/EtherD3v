@@ -1,11 +1,13 @@
-### Hi there 👋
+### 👋 Hi, I'm @EtherD3v. 
+
+- 🎯 I master Python, Java, JavaScript, HTML/CSS..
+- 🌱 I’m currently learning TypeScript and JS's frameworks
+
 
 <!--
 **EtherD3v/EtherD3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+Here are some ideas to get you - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
