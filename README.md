@@ -1,5 +1,4 @@
-### 👋 Hi, I'm @EtherD3v. 
-
+### 👋🏻 Hi, I'm @EtherD3v. 
 - 🎯 I master Python, Java, JavaScript, HTML/CSS...
 - 🌱 I’m currently learning TypeScript and JS's frameworks
 
