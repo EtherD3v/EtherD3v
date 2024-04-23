@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning TypeScript and JS's frameworks
   <br>
 
-<br>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EtherD3v.EtherD3v&left_color=orangered"  />
 </div>
