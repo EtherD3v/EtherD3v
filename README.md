@@ -3,7 +3,7 @@
 - 👀 I'm interested in Node.js
 - 🌱 I’m currently learning TypeScript and JS's frameworks
   <br>
-
+</hr>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EtherD3v.EtherD3v&left_color=orangered"  />
 </div>
