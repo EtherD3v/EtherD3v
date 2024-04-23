@@ -5,7 +5,7 @@
   <br>
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EtherD3v.EtherD3v&left_color=orangered"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EtherD3v.EtherD3v&center_color=orangered"  />
 </div>
 
 ###
