@@ -1,7 +1,6 @@
-![EtherD3v-video (1)](https://github.com/EtherD3v/EtherD3v/assets/118121669/de98b414-f1d4-443c-8f35-c460c0b72794)
 ### 👋🏻 Hi, I'm @EtherD3v. 
 - 🎯 I master Python, Java, JavaScript, HTML/CSS
-- 👀 I'm interested in Node.js
+- 👀 I'm interested in Node.js ------------------------------- ![EtherD3v-video (1)](https://github.com/EtherD3v/EtherD3v/assets/118121669/de98b414-f1d4-443c-8f35-c460c0b72794)
 - 🌱 I’m currently learning TypeScript and JS's frameworks
   <br>
 <hr>
