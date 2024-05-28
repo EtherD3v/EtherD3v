@@ -22,13 +22,6 @@
 <br>
 <div align="left">
   
-<video width="320" height="240" controls>
-  <source src="https://github.com/EtherD3v/EtherD3v/assets/118121669/89df7393-0936-4d5e-a39d-2ce0931ab312" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-https://github.com/EtherD3v/EtherD3v/assets/118121669/89df7393-0936-4d5e-a39d-2ce0931ab312
-
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EtherD3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br>
