@@ -21,7 +21,9 @@
 </div>
 <br>
 <div align="left">
- ![generated_video](https://github.com/EtherD3v/EtherD3v/assets/118121669/3629253a-6c4c-453e-b602-1070784ab10b)
+  <video width="320" height="240" controls>
+    <source src="https://www.veed.io/view/d28aae18-40a1-4070-b65e-b8819f2e1668?panel=share" type="video/mp4">
+  </video>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EtherD3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br>
