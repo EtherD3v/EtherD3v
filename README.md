@@ -1,3 +1,4 @@
+![EtherD3v-video (1)](https://github.com/EtherD3v/EtherD3v/assets/118121669/de98b414-f1d4-443c-8f35-c460c0b72794)
 ### 👋🏻 Hi, I'm @EtherD3v. 
 - 🎯 I master Python, Java, JavaScript, HTML/CSS
 - 👀 I'm interested in Node.js
@@ -22,8 +23,6 @@
 <br>
 
 <div align="left">
-![EtherD3v-video (1)](https://github.com/EtherD3v/EtherD3v/assets/118121669/de98b414-f1d4-443c-8f35-c460c0b72794)
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EtherD3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <br>
