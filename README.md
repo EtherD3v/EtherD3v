@@ -20,8 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 <br>
+![EtherD3v-video (1)](https://github.com/EtherD3v/EtherD3v/assets/118121669/ca614617-390f-4901-8b43-59ee83f96ced)
 <div align="left">
-  ![EtherD3v-video (1)](https://github.com/EtherD3v/EtherD3v/assets/118121669/ca614617-390f-4901-8b43-59ee83f96ced)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EtherD3v&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
